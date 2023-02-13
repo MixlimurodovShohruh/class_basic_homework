@@ -5,12 +5,12 @@ p3=Person("Jasur")
 a=p1.name
 b=p2.name
 c=p3.name
-ls=[]
-ls.append(a)
-ls.append(b)
-ls.append(c)
+persons=[]
+persons.append(a)
+persons.append(b)
+persons.append(c)
 
-print(ls)
+print(persons)
 #Create an object named "p1" whose name is "Anvar"
 #Create an object named "p2" whose name is "Shavkat"
 #Create an object named "p3" whose name is "Jasur"
